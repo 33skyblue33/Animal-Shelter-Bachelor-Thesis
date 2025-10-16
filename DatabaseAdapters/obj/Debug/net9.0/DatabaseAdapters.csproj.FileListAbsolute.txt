@@ -1,0 +1,17 @@
+D:\CSharp\AnimalShelter\DatabaseAdapters\bin\Debug\net9.0\DatabaseAdapters.deps.json
+D:\CSharp\AnimalShelter\DatabaseAdapters\bin\Debug\net9.0\DatabaseAdapters.dll
+D:\CSharp\AnimalShelter\DatabaseAdapters\bin\Debug\net9.0\DatabaseAdapters.pdb
+D:\CSharp\AnimalShelter\DatabaseAdapters\bin\Debug\net9.0\Domain.dll
+D:\CSharp\AnimalShelter\DatabaseAdapters\bin\Debug\net9.0\Domain.pdb
+D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\DatabaseAdapters.csproj.AssemblyReference.cache
+D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\DatabaseAdapters.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\DatabaseAdapters.AssemblyInfoInputs.cache
+D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\DatabaseAdapters.AssemblyInfo.cs
+D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\DatabaseAdapters.csproj.CoreCompileInputs.cache
+D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\Database.EB5F2BF4.Up2Date
+D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\DatabaseAdapters.dll
+D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\refint\DatabaseAdapters.dll
+D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\DatabaseAdapters.pdb
+D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\ref\DatabaseAdapters.dll
+D:\CSharp\AnimalShelter\DatabaseAdapters\bin\Debug\net9.0\DatabaseAdapters.runtimeconfig.json
+D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\DatabaseAdapters.genruntimeconfig.cache
