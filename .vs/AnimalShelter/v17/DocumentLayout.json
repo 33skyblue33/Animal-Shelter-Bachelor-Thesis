@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\CSharp\\AnimalShelter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA9D3D46-9231-4C96-BAE4-3B3DCF0D0BC4}|AnimalShelter\\AnimalShelter.csproj|d:\\csharp\\animalshelter\\animalshelter\\controllers\\adoptionrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9D3D46-9231-4C96-BAE4-3B3DCF0D0BC4}|AnimalShelter\\AnimalShelter.csproj|solutionrelative:animalshelter\\controllers\\adoptionrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{469E1C5C-0B44-4547-8A11-ADB5FDB7273E}|Domain\\Domain.csproj|d:\\csharp\\animalshelter\\domain\\services\\adoptionrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{469E1C5C-0B44-4547-8A11-ADB5FDB7273E}|Domain\\Domain.csproj|solutionrelative:domain\\services\\adoptionrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdoptionRequestService.cs",
               "DocumentMoniker": "D:\\CSharp\\AnimalShelter\\Domain\\Services\\AdoptionRequestService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\AdoptionRequestService.cs",
               "ToolTip": "D:\\CSharp\\AnimalShelter\\Domain\\Services\\AdoptionRequestService.cs",
               "RelativeToolTip": "Domain\\Services\\AdoptionRequestService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T16:47:22.958Z",
+              "WhenOpened": "2025-10-17T15:43:47.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdoptionRequestController.cs",
+              "DocumentMoniker": "D:\\CSharp\\AnimalShelter\\AnimalShelter\\Controllers\\AdoptionRequestController.cs",
+              "RelativeDocumentMoniker": "AnimalShelter\\Controllers\\AdoptionRequestController.cs",
+              "ToolTip": "D:\\CSharp\\AnimalShelter\\AnimalShelter\\Controllers\\AdoptionRequestController.cs",
+              "RelativeToolTip": "AnimalShelter\\Controllers\\AdoptionRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:25:00.468Z",
               "EditorCaption": ""
             }
           ]
