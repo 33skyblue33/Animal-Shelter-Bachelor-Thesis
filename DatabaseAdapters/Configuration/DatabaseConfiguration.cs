@@ -24,6 +24,7 @@ namespace DatabaseAdapters.Configuration
         private static IServiceCollection AddRepositories(IServiceCollection services)
         {
             services.AddScoped<IBreedRepository, BreedRepository>();
+            services.AddScoped<IMessageRepository, MessageRepository>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             return services;
         }

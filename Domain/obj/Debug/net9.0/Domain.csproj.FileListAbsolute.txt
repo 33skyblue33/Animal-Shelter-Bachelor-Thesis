@@ -9,3 +9,4 @@ D:\CSharp\AnimalShelter\Domain\obj\Debug\net9.0\Domain.dll
 D:\CSharp\AnimalShelter\Domain\obj\Debug\net9.0\refint\Domain.dll
 D:\CSharp\AnimalShelter\Domain\obj\Debug\net9.0\Domain.pdb
 D:\CSharp\AnimalShelter\Domain\obj\Debug\net9.0\ref\Domain.dll
+D:\CSharp\AnimalShelter\Domain\obj\Debug\net9.0\Domain.sourcelink.json

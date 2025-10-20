@@ -2,6 +2,7 @@
 using AnimalShelter.Mappers;
 using Domain.Entities;
 using Domain.Services;
+using Domain.Util;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -19,11 +20,11 @@ namespace AnimalShelter.Controllers
             return message is not null ? Ok(message.ToDto()) : NotFound();
         }
 
-        [HttpGet]
-        public async Task<ActionResult<List<MessageDto>>> GetAll()
+        [HttpGet("{conversationId}/history")]
+        public async Task<ActionResult<PagedResultDto<MessageDto>>> GetPagedByConversationId(long conversationId, int page, int pageSize)
         {
-            IEnumerable<Message> messages = await messageService.GetAllAsync();
-            return Ok(messages.Select(m => m.ToDto()).ToList());
+            PagedResult<Message> pagedResult = await messageService.GetPagedByConversationIdAsync(conversationId, page, pageSize);
+            return Ok(pagedResult.ToDto());
         }
 
         [HttpPost]

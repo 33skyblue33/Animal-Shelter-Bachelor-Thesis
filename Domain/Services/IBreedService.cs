@@ -7,7 +7,7 @@ using Domain.Entities;
 
 namespace Domain.Services
 {
-    internal interface IBreedService
+    public interface IBreedService
     {
         Task<Breed?> GetByIdAsync(long id);
         Task<IEnumerable<Breed>> GetAllAsync();

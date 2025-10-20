@@ -4,7 +4,8 @@ using Domain.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddSqliteDatabase(builder.Configuration);
-builder.Services.AddScoped<BreedService, BreedService>();
+builder.Services.AddScoped<IBreedService, BreedService>();
+builder.Services.AddScoped<IMessageService, MessageService>();
 
 builder.Services.AddControllers();
 

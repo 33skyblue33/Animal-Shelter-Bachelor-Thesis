@@ -15,3 +15,4 @@ D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\DatabaseAdapters.pdb
 D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\ref\DatabaseAdapters.dll
 D:\CSharp\AnimalShelter\DatabaseAdapters\bin\Debug\net9.0\DatabaseAdapters.runtimeconfig.json
 D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\DatabaseAdapters.genruntimeconfig.cache
+D:\CSharp\AnimalShelter\DatabaseAdapters\obj\Debug\net9.0\DatabaseAdapters.sourcelink.json
