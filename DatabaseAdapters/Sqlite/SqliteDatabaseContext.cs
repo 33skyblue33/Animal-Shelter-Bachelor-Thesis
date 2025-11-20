@@ -15,8 +15,10 @@ namespace DatabaseAdapters.Sqlite
         public DbSet<Message> Messages { get; set; }
         public DbSet<Dotation> Dotations { get; set; }
         public DbSet<AdoptionRequest> AdoptionRequests { get; set; }
-
-        public object Pet => throw new NotImplementedException();
+        public DbSet<Conversation> Conversations { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<RefreshToken> RefreshTokens { get; set; }
+        public DbSet<VerificationToken> VerificationTokens { get; set; }
 
         public SqliteDatabaseContext(DbContextOptions options) : base(options)
         {

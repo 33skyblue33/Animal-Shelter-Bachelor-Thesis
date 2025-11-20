@@ -2,6 +2,7 @@
 using AnimalShelter.Mappers;
 using Domain.Entities;
 using Domain.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,7 +10,7 @@ namespace AnimalShelter.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class BreedsController(BreedService breedService) : ControllerBase
+    public class BreedsController(IBreedService breedService) : ControllerBase
     {
         [HttpGet("{id}")] 
         public async Task<ActionResult<BreedDto>> GetById(long id)

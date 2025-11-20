@@ -1,4 +1,5 @@
-﻿using AnimalShelter.Dto;
+﻿using System.Reflection.Metadata;
+using AnimalShelter.Dto;
 using AnimalShelter.Mappers;
 using Domain.Entities;
 using Domain.Services;
@@ -9,7 +10,7 @@ namespace AnimalShelter.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PetController(PetService petService) : ControllerBase
+    public class PetController(IPetService petService) : ControllerBase
     {
         [HttpGet("{id}")]
         public async Task<ActionResult<PetDto>> GetById(long id)

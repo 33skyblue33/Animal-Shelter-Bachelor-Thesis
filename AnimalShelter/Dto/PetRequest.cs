@@ -1,4 +1,4 @@
 ﻿namespace AnimalShelter.Dto
 {
-    public record PetRequest(string Name, string Age, string Color, string Description, string ImageUrl);
+    public record PetRequest(long BreedId, string Name, string Age, string Color, string Description, string ImageUrl);
 }

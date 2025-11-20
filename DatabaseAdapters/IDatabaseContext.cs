@@ -15,11 +15,13 @@ namespace DatabaseAdapters
         public DbSet<Message> Messages { get; set; }
         public DbSet<Dotation> Dotations { get; set; }
         public DbSet<AdoptionRequest> AdoptionRequests { get; set; }
-        object Pet { get; }
+        public DbSet<Conversation> Conversations { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<RefreshToken> RefreshTokens { get; set; }
+        public DbSet<VerificationToken> VerificationTokens { get; set; }
+
 
         Task<int> SaveChangesAsync();
-
-        
         
     }
 }

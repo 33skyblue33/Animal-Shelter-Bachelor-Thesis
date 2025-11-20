@@ -161,4 +161,13 @@ D:\CSharp\AnimalShelter\AnimalShelter\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis
 D:\CSharp\AnimalShelter\AnimalShelter\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\CSharp\AnimalShelter\AnimalShelter\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\CSharp\AnimalShelter\AnimalShelter\obj\Debug\net9.0\AnimalShelter.sourcelink.json
+D:\CSharp\AnimalShelter\AnimalShelter\bin\Debug\net9.0\Konscious.Security.Cryptography.Argon2.dll
+D:\CSharp\AnimalShelter\AnimalShelter\bin\Debug\net9.0\Konscious.Security.Cryptography.Blake2.dll
+D:\CSharp\AnimalShelter\AnimalShelter\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CSharp\AnimalShelter\AnimalShelter\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CSharp\AnimalShelter\AnimalShelter\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\CSharp\AnimalShelter\AnimalShelter\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\CSharp\AnimalShelter\AnimalShelter\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CSharp\AnimalShelter\AnimalShelter\bin\Debug\net9.0\ExternalAdapters.dll
+D:\CSharp\AnimalShelter\AnimalShelter\bin\Debug\net9.0\ExternalAdapters.pdb
 D:\CSharp\AnimalShelter\AnimalShelter\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

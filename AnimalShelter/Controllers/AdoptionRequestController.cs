@@ -2,6 +2,7 @@
 using AnimalShelter.Mappers;
 using Domain.Entities;
 using Domain.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,7 +10,7 @@ namespace AnimalShelter.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class AdoptionRequestController(AdoptionRequestService adoptionRequestService) : ControllerBase
+    public class AdoptionRequestController(IAdoptionRequestService adoptionRequestService) : ControllerBase
     {
         [HttpGet("{id}")] 
         public async Task<ActionResult<AdoptionRequestDto>> GetById(long id)
@@ -50,7 +51,6 @@ namespace AnimalShelter.Controllers
         public async Task<ActionResult> Delete(long id)
         {
             return await adoptionRequestService.DeleteAsync(id) ? NoContent() : NotFound();
-
         }
 
     }

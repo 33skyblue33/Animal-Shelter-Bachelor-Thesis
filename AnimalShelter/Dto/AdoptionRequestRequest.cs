@@ -2,5 +2,5 @@
 
 namespace AnimalShelter.Dto
 {
-    public record AdoptionRequestRequest();
+    public record AdoptionRequestRequest(long UserId, long PetId);
 }

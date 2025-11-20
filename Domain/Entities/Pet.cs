@@ -9,6 +9,7 @@ namespace Domain.Entities
     public class Pet
     {
         public long Id { get; set; }
+        public long BreedId { get; set; }
         public required string Name { get; set; }
         public required string Age { get; set; }
         public required string Color { get; set; }

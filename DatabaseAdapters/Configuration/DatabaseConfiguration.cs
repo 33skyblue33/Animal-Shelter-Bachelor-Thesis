@@ -24,7 +24,14 @@ namespace DatabaseAdapters.Configuration
         private static IServiceCollection AddRepositories(IServiceCollection services)
         {
             services.AddScoped<IBreedRepository, BreedRepository>();
+            services.AddScoped<IPetRepository, PetRepository>();
             services.AddScoped<IMessageRepository, MessageRepository>();
+            services.AddScoped<IConversationRepository, ConversationRepository>();
+            services.AddScoped<IAdoptionRequestRepository, AdoptionRequestRepository>();
+            services.AddScoped<IDotationRepository, DotationRepository>();
+            services.AddScoped<IRefreshTokenRepository, RefreshTokenRepository>();
+            services.AddScoped<IVerificationTokenRepository, VerificationTokenRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             return services;
         }

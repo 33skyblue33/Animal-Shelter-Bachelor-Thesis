@@ -15,6 +15,9 @@ namespace DatabaseAdapters.Configuration
         {
             builder.ToTable("Messages");
             builder.HasKey(m => m.Id);
+            builder.HasOne<Conversation>().WithMany()
+                .HasForeignKey(m => m.ConversationId)
+                .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }

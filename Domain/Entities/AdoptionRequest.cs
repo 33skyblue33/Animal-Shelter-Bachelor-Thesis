@@ -10,6 +10,8 @@ namespace Domain.Entities
     public  class AdoptionRequest
     {
         public long Id { get; set; }
+        public long PetId { get; set; }
+        public long UserId { get; set; }
         public AdoptionRequestStatus Status { get; set; }
         public DateTime RequestDate { get; set; }
         public DateTime? ResolvedDate {  get; set; }

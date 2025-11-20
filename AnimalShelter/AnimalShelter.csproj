@@ -21,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DatabaseAdapters\DatabaseAdapters.csproj" />
     <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\ExternalAdapters\ExternalAdapters.csproj" />
   </ItemGroup>
 
 </Project>

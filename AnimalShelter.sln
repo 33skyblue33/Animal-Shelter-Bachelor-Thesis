@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAdapters", "DatabaseAdapters\DatabaseAdapters.csproj", "{797BF9A2-69BB-4C6E-BEC2-5B8E26A5F0F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalAdapters", "ExternalAdapters\ExternalAdapters.csproj", "{0F692450-1B0D-403D-B6CE-AD014F2E87EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{797BF9A2-69BB-4C6E-BEC2-5B8E26A5F0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{797BF9A2-69BB-4C6E-BEC2-5B8E26A5F0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{797BF9A2-69BB-4C6E-BEC2-5B8E26A5F0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F692450-1B0D-403D-B6CE-AD014F2E87EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F692450-1B0D-403D-B6CE-AD014F2E87EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F692450-1B0D-403D-B6CE-AD014F2E87EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F692450-1B0D-403D-B6CE-AD014F2E87EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
