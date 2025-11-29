@@ -1,0 +1,16 @@
+D:\CSharp\AnimalShelter\ExternalAdapters\bin\Debug\net9.0\ExternalAdapters.deps.json
+D:\CSharp\AnimalShelter\ExternalAdapters\bin\Debug\net9.0\ExternalAdapters.dll
+D:\CSharp\AnimalShelter\ExternalAdapters\bin\Debug\net9.0\ExternalAdapters.pdb
+D:\CSharp\AnimalShelter\ExternalAdapters\bin\Debug\net9.0\Domain.dll
+D:\CSharp\AnimalShelter\ExternalAdapters\bin\Debug\net9.0\Domain.pdb
+D:\CSharp\AnimalShelter\ExternalAdapters\obj\Debug\net9.0\ExternalAdapters.csproj.AssemblyReference.cache
+D:\CSharp\AnimalShelter\ExternalAdapters\obj\Debug\net9.0\ExternalAdapters.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\AnimalShelter\ExternalAdapters\obj\Debug\net9.0\ExternalAdapters.AssemblyInfoInputs.cache
+D:\CSharp\AnimalShelter\ExternalAdapters\obj\Debug\net9.0\ExternalAdapters.AssemblyInfo.cs
+D:\CSharp\AnimalShelter\ExternalAdapters\obj\Debug\net9.0\ExternalAdapters.csproj.CoreCompileInputs.cache
+D:\CSharp\AnimalShelter\ExternalAdapters\obj\Debug\net9.0\ExternalAdapters.sourcelink.json
+D:\CSharp\AnimalShelter\ExternalAdapters\obj\Debug\net9.0\External.1CD21A42.Up2Date
+D:\CSharp\AnimalShelter\ExternalAdapters\obj\Debug\net9.0\ExternalAdapters.dll
+D:\CSharp\AnimalShelter\ExternalAdapters\obj\Debug\net9.0\refint\ExternalAdapters.dll
+D:\CSharp\AnimalShelter\ExternalAdapters\obj\Debug\net9.0\ExternalAdapters.pdb
+D:\CSharp\AnimalShelter\ExternalAdapters\obj\Debug\net9.0\ref\ExternalAdapters.dll

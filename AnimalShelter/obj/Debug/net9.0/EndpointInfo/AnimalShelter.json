@@ -574,10 +574,10 @@
         }
       }
     },
-    "/api/DotationsControllers/{id}": {
+    "/api/Dotation/{id}": {
       "get": {
         "tags": [
-          "DotationsControllers"
+          "Dotation"
         ],
         "parameters": [
           {
@@ -615,7 +615,7 @@
       },
       "put": {
         "tags": [
-          "DotationsControllers"
+          "Dotation"
         ],
         "parameters": [
           {
@@ -655,7 +655,7 @@
       },
       "delete": {
         "tags": [
-          "DotationsControllers"
+          "Dotation"
         ],
         "parameters": [
           {
@@ -675,10 +675,10 @@
         }
       }
     },
-    "/api/DotationsControllers": {
+    "/api/Dotation": {
       "get": {
         "tags": [
-          "DotationsControllers"
+          "Dotation"
         ],
         "responses": {
           "200": {
@@ -714,7 +714,7 @@
       },
       "post": {
         "tags": [
-          "DotationsControllers"
+          "Dotation"
         ],
         "requestBody": {
           "content": {

@@ -10,7 +10,7 @@ namespace AnimalShelter.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class DotationsControllers(IDotationService dotationService, IUnitOfWork unitOfWork) : ControllerBase
+    public class DotationController(IDotationService dotationService, IUnitOfWork unitOfWork) : ControllerBase
     {
         [HttpGet("{id}")]
         public async Task<ActionResult<DotationDto>> GetById(long id)

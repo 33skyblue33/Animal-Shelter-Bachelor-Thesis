@@ -344,9 +344,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "AnimalShelter.Controllers.DotationsControllers",
+    "ContainingType": "AnimalShelter.Controllers.DotationController",
     "Method": "GetAll",
-    "RelativePath": "api/DotationsControllers",
+    "RelativePath": "api/Dotation",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -364,9 +364,9 @@
     ]
   },
   {
-    "ContainingType": "AnimalShelter.Controllers.DotationsControllers",
+    "ContainingType": "AnimalShelter.Controllers.DotationController",
     "Method": "Create",
-    "RelativePath": "api/DotationsControllers",
+    "RelativePath": "api/Dotation",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -380,9 +380,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "AnimalShelter.Controllers.DotationsControllers",
+    "ContainingType": "AnimalShelter.Controllers.DotationController",
     "Method": "GetById",
-    "RelativePath": "api/DotationsControllers/{id}",
+    "RelativePath": "api/Dotation/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -406,9 +406,9 @@
     ]
   },
   {
-    "ContainingType": "AnimalShelter.Controllers.DotationsControllers",
+    "ContainingType": "AnimalShelter.Controllers.DotationController",
     "Method": "Update",
-    "RelativePath": "api/DotationsControllers/{id}",
+    "RelativePath": "api/Dotation/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -427,9 +427,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "AnimalShelter.Controllers.DotationsControllers",
+    "ContainingType": "AnimalShelter.Controllers.DotationController",
     "Method": "Delete",
-    "RelativePath": "api/DotationsControllers/{id}",
+    "RelativePath": "api/Dotation/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
